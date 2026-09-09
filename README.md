@@ -1,74 +1,159 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is LALITH D
-=================================================================================================================================
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+LALITH+%28TECH-BOY%29+D;Cybersecurity+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;AI+%26+ML+Specialist+%F0%9F%A4%96;Python+Developer+%F0%9F%90%8D;Penetration+Tester+%F0%9F%94%8F" alt="Typing SVG" />
+</h1>
 
-# 🚀 **CYBERSECURITY | AI | PYTHON DEVELOPER**
----
-
-### 💻 **About Me**
-
-I am an aspiring technology professional with a strong focus on **Cybersecurity**, **Artificial Intelligence**, and **Python development**, dedicated to building **secure, scalable, and intelligent software solutions**.  
-
-My core interest lies in understanding modern security challenges and leveraging advanced technologies to design systems that are both **efficient and resilient**.  
-
-I have a growing foundation in **network security**, **vulnerability assessment**, **security monitoring**, and **automation**, combined with hands-on experience in developing **Python-based tools** and exploring **AI/ML concepts**.  
-
-I am particularly interested in integrating **Machine Learning** and **Large Language Models (LLMs)** into cybersecurity workflows to enhance **threat detection, analysis, and response**.  
-
-With a disciplined and solution-oriented approach, I continuously work on real-world projects that strengthen my **technical capabilities** and **problem-solving skills**.  
-
-I am committed to staying updated with the latest **industry trends, tools, and best practices**, ensuring that my work aligns with current technological standards.  
-
----
-
-### 🎯 **Career Objective**
-
-To build a career as a **Cybersecurity Engineer** or **AI Specialist**, contributing to organizations by developing **innovative, reliable, and secure systems** that address complex digital challenges.  
-
----
-
-### 🌍 **Profile Details**
-
-- 🌍 **Location:** Bangalore, India  
-- ✉️ **Email:** [lalithulalu@gmail.com](mailto:lalithulalu@gmail.com)  
-
----
-
-### 📚 **Currently Learning**
-
-I am currently focused on developing my expertise in **Cybersecurity**, particularly in areas such as **Security Operations (SOC)**, **Threat Intelligence**, and **Incident Response**.  
-
-In parallel, I am expanding my knowledge of **Machine Learning** and **Large Language Models**, while strengthening my **Python programming skills** for building scalable and secure applications.  
-
----
-
-### 🤝 **Open to Collaboration**
-
-I am open to collaborating on projects involving **Cybersecurity**, **AI/ML**, and **Python development**, especially those focused on:  
-- 🔐 Threat Detection  
-- ⚙️ Automation  
-- 🤖 Intelligent Systems  
-- 🛡️ Secure Application Design  
-
----
-
-### 💬 **Professional Statement**
-
-I am committed to **continuous learning**, **technical excellence**, and delivering **high-quality solutions**, with a strong focus on building **secure, scalable, and intelligent systems**.  
-
-I aim to contribute effectively to **real-world problem solving** while evolving as a **Cybersecurity and AI professional** in a dynamic technology landscape.  
-
----
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a>
+<p align="center">
+  <em>🛡️ Cybersecurity Enthusiast | 🤖 AI & ML | 🏆 AMD Slingshot Ideathon Winner | CEH Aspirant | Blue Team | Penetration Tester</em>
 </p>
 
-### Socials
+<p align="center">
+  <em>"Building secure, scalable, and intelligent software solutions."</em> ⚡<br/><br/>
+  🌱 Learning Cybersecurity & AI · 🛡️ Building skills to defend the digital world · 📍 Tumakuru, Karnataka, India
+</p>
 
-<p align="left"> <a href="https://www.github.com/LALITHD-21" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.x.com/@LALITH_TECHBOY" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://www.threads.net/@LALITH_TECHBOY" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" alt="Threads" title="Threads" /> </picture> </a> <a href="https://www.linkedin.com/in/lalith-d-55aa47366/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-### Support Me
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LALITHD-21&style=flat-square&color=00D9FF&label=Visitors" alt="Profile Views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/LALITHD-21?style=flat-square&color=00D9FF&label=Followers" alt="Followers" />
+  &nbsp;
+  <img src="https://img.shields.io/github/public-repos/LALITHD-21?style=flat-square&color=00D9FF&label=Public%20Repos" alt="Public Repos" />
+</p>
 
-<ul style="list-style-type: none; margin: 0;">
+---
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/techboy21"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+### 🧑‍💻 About Me
 
-</ul>
+```yaml
+name: LALITH (TECH-BOY) D
+role: Cybersecurity Enthusiast | AI & ML | Penetration Tester
+location: Tumakuru, Karnataka, India
+focus: ["Cybersecurity", "Artificial Intelligence", "Python Development"]
+achievements: ["AMD Slingshot Ideathon Winner"]
+certifications: ["CEH Aspirant"]
+interests: ["Network Security", "Threat Intelligence", "Machine Learning", "LLMs"]
+learning: ["Security Operations (SOC)", "Incident Response", "ML & LLMs", "Python"]
+team: "Blue Team"
+motto: "Every system can be made more secure, and every problem has an intelligent solution"
+email: lalithulalu@gmail.com
+```
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+🌱 **Currently Learning**
+- Security Operations (SOC)
+- Threat Intelligence & Incident Response
+- Machine Learning & Large Language Models
+- Python for scalable & secure applications
+
+</td>
+<td width="50%" valign="top">
+
+🎯 **Currently Building**
+- Python-based security tools
+- AI/ML-integrated cybersecurity workflows
+- Automation for threat detection & analysis
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🏗️ Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/LALITHD-21">
+        <img src="https://img.shields.io/badge/🛡️_Cybersecurity_Tools-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Cybersecurity Tools" />
+      </a>
+      <br/>
+      <sub>Python-based security & automation tools</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Language" />
+      <img src="https://img.shields.io/github/last-commit/LALITHD-21?style=flat-square&label=updated" alt="Last Commit" />
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/LALITHD-21">
+        <img src="https://img.shields.io/badge/🤖_AI_ML_Projects-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="AI/ML Projects" />
+      </a>
+      <br/>
+      <sub>Machine Learning & LLM-integrated solutions</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Language" />
+      <img src="https://img.shields.io/github/last-commit/LALITHD-21?style=flat-square&label=updated" alt="Last Commit" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://img.shields.io/github/public-repos/LALITHD-21?style=for-the-badge&color=00D9FF&label=📊%20Public%20Repos" alt="Public Repos" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/LALITHD-21?style=for-the-badge&color=00D9FF&label=👥%20Followers" alt="Followers" />
+  &nbsp;
+  <img src="https://img.shields.io/github/commits-since/LALITHD-21/LALITHD-21/main/0?style=for-the-badge&color=00D9FF&label=🔗%20Commits" alt="Commits" />
+</p>
+
+<p align="center">
+  <strong>Languages across all repos:</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+</p>
+
+---
+
+### 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Network_Security-00D9FF?style=flat-square&logo=ubisoft&logoColor=white" alt="Network Security" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-412991?style=flat-square&logo=openai&logoColor=white" alt="AI" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:lalithulalu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/lalith-d-55aa47366" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/LALITHD-21" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://mohitgujjar07.github.io/tech-boy-website/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Website-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <em>🛡️ Thanks for visiting my profile! Let's secure and build the future together. 🚀</em>
+</p>
